@@ -25,3 +25,8 @@ def my_fuction():
     x = 10
 my_fuction()
 print(x)
+
+
+# Modules
+import mymodule
+mymodule.greeting("Rifat Muhtasim")
