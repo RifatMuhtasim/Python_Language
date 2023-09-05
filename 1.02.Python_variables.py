@@ -10,7 +10,7 @@ x = float(x)
 print(x)
 print(type(x)) # Get the type
 
-My_name_variable = "Rifat" # Snake case variable
+My_name_variable = "Rifat Muhtasim" # Snake case variable
 
 
 # Many values to multiple Variables
